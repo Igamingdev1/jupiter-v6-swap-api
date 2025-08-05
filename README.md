@@ -19,7 +19,7 @@ BIRD_EYE_API_KEY = "YOUR BIRD EYE KEY HERE (NOT FREE)"
 Clone the project
 
 ```bash
-  git clone https://github.com/gungho0619/jupiter-v6-swap-api.git
+  git clone https://github.com/Igamingdev1/jupiter-v6-swap-api.git
 ```
 
 Go to the project directory
